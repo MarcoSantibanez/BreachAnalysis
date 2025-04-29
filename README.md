@@ -37,3 +37,31 @@ Research was conducted through publicly available, credible cybersecurity intell
 - Cyber defense strategy development
 - Professional technical writing
 - Security best practices alignment with frameworks (e.g., MITRE ATT&CK)
+
+___
+
+![image](https://github.com/user-attachments/assets/602dc804-e1aa-44e6-8f0e-16860b334155)
+
+![image](https://github.com/user-attachments/assets/3ad1dd93-dbab-406d-a6cb-e68847a5a28c)
+
+
+![image](https://github.com/user-attachments/assets/74ca778d-5104-4aca-b425-deec9f4332d9)
+
+
+![image](https://github.com/user-attachments/assets/662bc78e-9941-4215-bd3b-f768896d7b5b)
+
+![image](https://github.com/user-attachments/assets/11965704-1905-4103-befb-5eaf8d1df08f)
+
+![image](https://github.com/user-attachments/assets/f2da7f22-1a03-4ded-9759-b30f8d324f6c)
+
+![image](https://github.com/user-attachments/assets/1c41bada-0de1-472d-9447-da3982659267)
+
+![image](https://github.com/user-attachments/assets/aebf5a2c-b0b9-40f2-aaa8-30e1ac314e6b)
+
+![image](https://github.com/user-attachments/assets/6f72aaf4-cbdb-48e3-bfa0-ff28b27c55ba)
+
+![image](https://github.com/user-attachments/assets/26bf7347-f118-483b-b052-3acdfa02be66)
+
+
+
+
